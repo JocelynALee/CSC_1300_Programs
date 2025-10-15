@@ -4,7 +4,7 @@ A collection of Programs from the course Intro to Problem Solving &amp; Computer
 Jocelyn Lee | Freshman | Electrical Engineering
 
 # Program 1:
-  Date: January 29, 2024
+  Date: January 29, 2024/n
   Purpose: This program will take information about one credit card
     from the user and calculate how long it will take to pay
     the card off.
